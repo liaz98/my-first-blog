@@ -25,7 +25,7 @@ SECRET_KEY = 's3*vzg_!4l_vv$kvu_vbo57fbmi924v9p5l0o&go3tr=fe-1+l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', Azizabonu.pythonanywhere.com']
 
 
 # Application definition
